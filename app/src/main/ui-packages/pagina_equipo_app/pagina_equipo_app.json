@@ -1,0 +1,559 @@
+{
+  "name": "pagina_equipo_app",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "qiSlSycuSQmyjIrrAEVp77",
+    "node": "36:103",
+    "version": "5074740005",
+    "component-id": "416131b931f163f9e130116e5145409dcb5b2e02"
+  },
+  "default": "Pagina Equipo App",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Layout Equipo"
+      },
+      {
+        "type": "group",
+        "id": "Top App Bar Equipo"
+      },
+      {
+        "type": "group",
+        "id": "Equipo"
+      },
+      {
+        "type": "group",
+        "id": "Patrocinadores"
+      },
+      {
+        "type": "group",
+        "id": "Compañero"
+      },
+      {
+        "type": "text",
+        "id": "Texto Equipo"
+      },
+      {
+        "type": "image",
+        "id": "Icono Aston Martin"
+      },
+      {
+        "type": "text",
+        "id": "Patrocinadores:"
+      },
+      {
+        "type": "image",
+        "id": "Cognizant-Black 2"
+      },
+      {
+        "type": "image",
+        "id": "Aramco-Black 2"
+      },
+      {
+        "type": "image",
+        "id": "Lance"
+      },
+      {
+        "type": "group",
+        "id": "Texto Compañero"
+      },
+      {
+        "type": "text",
+        "id": "Compañero:"
+      },
+      {
+        "type": "text",
+        "id": "Lance Stroll"
+      },
+      {
+        "type": "text",
+        "id": "Texto Equipo Top Bar"
+      },
+      {
+        "type": "group",
+        "id": "Capa Menu Equipo"
+      },
+      {
+        "type": "vector",
+        "id": "Icono Menu"
+      }
+    ],
+    "modes": {
+      "Pagina Equipo App": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Layout Equipo",
+              "Top App Bar Equipo"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "175.05882352941177",
+              "saturation": "0.9883720930232559",
+              "value": "0.33725490196078434"
+            }
+          },
+          {
+            "id": "Layout Equipo",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-96.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "104.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "Equipo",
+              "Patrocinadores",
+              "Compañero"
+            ],
+            "item-spacing": "71.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Top App Bar Equipo",
+            "margin": {
+              "bottom": "760.000057220459"
+            },
+            "is-structured": "false",
+            "children": [
+              "Texto Equipo Top Bar",
+              "Capa Menu Equipo"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "102.28571428571428",
+              "saturation": "0.42510121457489874",
+              "value": "0.9686274509803922"
+            }
+          },
+          {
+            "id": "Equipo",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "339.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "134.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Texto Equipo",
+              "Icono Aston Martin"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Patrocinadores",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "296.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "144.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Patrocinadores:",
+              "Cognizant-Black 2",
+              "Aramco-Black 2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Compañero",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "553.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "414.0000305175781"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Lance",
+              "Texto Compañero"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Texto Equipo",
+            "margin": {
+              "left": "6.0",
+              "right": "6.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "39.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Equipo:",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Icono Aston Martin",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "32.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "102.0"
+              }
+            },
+            "image-content": "icono_aston_martin.png",
+            "scale": "fill"
+          },
+          {
+            "id": "Patrocinadores:",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-54.33962440490723"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "35.32075119018555"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Patrocinadores:",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Cognizant-Black 2",
+            "margin": {
+              "left": "2.7155914306640625",
+              "right": "0.0000457763671875"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-10.867940902709961"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "51.62263870239258"
+              }
+            },
+            "image-content": "cognizant_black_2.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Aramco-Black 2",
+            "margin": {
+              "left": "2.7155914306640625",
+              "right": "0.0000457763671875"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "45.7358283996582"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "52.528297424316406"
+              }
+            },
+            "image-content": "aramco_black_2.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Lance",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "96.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "lance.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Texto Compañero",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "128.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "83.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.99993896484375"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Compañero:",
+              "Lance Stroll"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Compañero:",
+            "margin": {
+              "bottom": "21.999937057495117"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "83.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Compañero:",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Lance Stroll",
+            "margin": {
+              "top": "20.99993896484375"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "83.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Lance Stroll",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Texto Equipo Top Bar",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Equipo",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "26.0",
+            "line-height": "1.266000014085036",
+            "typeface": "Acme"
+          },
+          {
+            "id": "Capa Menu Equipo",
+            "alignment": {
+              "horizontal": {
+                "attachment": "end",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "58.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Icono Menu"
+            ]
+          },
+          {
+            "id": "Icono Menu",
+            "margin": {
+              "left": "20.0",
+              "top": "14.0",
+              "right": "20.0",
+              "bottom": "14.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "icono_menu.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Pagina Equipo App",
+      "size": {
+        "width": 360.0,
+        "height": 800.0000610351562
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

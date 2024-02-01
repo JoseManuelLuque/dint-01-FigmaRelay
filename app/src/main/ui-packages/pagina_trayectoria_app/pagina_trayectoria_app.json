@@ -1,0 +1,2451 @@
+{
+  "name": "pagina_trayectoria_app",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "qiSlSycuSQmyjIrrAEVp77",
+    "node": "132:717",
+    "version": "5074740005",
+    "component-id": "456ed1fc933e39cac681f9285ec181b4fb4d88c1"
+  },
+  "default": "Pagina Trayectoria App",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Time Line"
+      },
+      {
+        "type": "group",
+        "id": "Top App Bar"
+      },
+      {
+        "type": "group",
+        "id": "2023"
+      },
+      {
+        "type": "group",
+        "id": "2022"
+      },
+      {
+        "type": "group",
+        "id": "2021"
+      },
+      {
+        "type": "group",
+        "id": "2020"
+      },
+      {
+        "type": "group",
+        "id": "2019"
+      },
+      {
+        "type": "group",
+        "id": "2018"
+      },
+      {
+        "type": "group",
+        "id": "2017"
+      },
+      {
+        "type": "group",
+        "id": "2016"
+      },
+      {
+        "type": "group",
+        "id": "line 2023"
+      },
+      {
+        "type": "group",
+        "id": "info 2023"
+      },
+      {
+        "type": "group",
+        "id": "start 2023"
+      },
+      {
+        "type": "vector",
+        "id": "rectangle 2023"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse 2023"
+      },
+      {
+        "type": "text",
+        "id": "2023_1"
+      },
+      {
+        "type": "text",
+        "id": "PODIO #100 EN F1"
+      },
+      {
+        "type": "text",
+        "id": "PODIO EN EL DEBUT CON ASTON MARTIN"
+      },
+      {
+        "type": "text",
+        "id": "¡FICHAJE POR ASTON MARTIN!"
+      },
+      {
+        "type": "group",
+        "id": "line 2022"
+      },
+      {
+        "type": "group",
+        "id": "info 2022"
+      },
+      {
+        "type": "group",
+        "id": "start 2022"
+      },
+      {
+        "type": "vector",
+        "id": "rectangle 2022"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse 2022"
+      },
+      {
+        "type": "text",
+        "id": "2022_1"
+      },
+      {
+        "type": "text",
+        "id": "RÉCORD DE LA CARRERA DEPORTIVA MÁS LARGA Y MAYOR NÚMERO DE CARRERAS EN F1"
+      },
+      {
+        "type": "group",
+        "id": "line 2021"
+      },
+      {
+        "type": "group",
+        "id": "info 2021"
+      },
+      {
+        "type": "group",
+        "id": "start 2021"
+      },
+      {
+        "type": "vector",
+        "id": "rectangle 2021"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse 2021"
+      },
+      {
+        "type": "text",
+        "id": "2021_1"
+      },
+      {
+        "type": "text",
+        "id": "¡TERCER PUESTO EN EL GP DE QATAR!"
+      },
+      {
+        "type": "text",
+        "id": "¡REGRESO A LA FÓRMULA 1!"
+      },
+      {
+        "type": "group",
+        "id": "line 2020"
+      },
+      {
+        "type": "group",
+        "id": "info 2020"
+      },
+      {
+        "type": "group",
+        "id": "start 2020"
+      },
+      {
+        "type": "vector",
+        "id": "rectangle 2020"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse 2020"
+      },
+      {
+        "type": "text",
+        "id": "2020_1"
+      },
+      {
+        "type": "text",
+        "id": "ESTRENO DE LA DOCUSERIE “FERNANDO”"
+      },
+      {
+        "type": "text",
+        "id": "¡COMPLETADAS LAS INDY500!"
+      },
+      {
+        "type": "text",
+        "id": "¡RETORNO A LA FÓRMULA 1!"
+      },
+      {
+        "type": "text",
+        "id": "¡¡CONFIRMADA LA PARTICIPACIÓN DE FERNANDO ALONSO EN LAS INDY500 DE 2020!!"
+      },
+      {
+        "type": "text",
+        "id": "¡SEGUNDO PUESTO EN LA ETAPA 8 DEL DAKAR!"
+      },
+      {
+        "type": "text",
+        "id": "¡COMIENZA EL DAKAR!"
+      },
+      {
+        "type": "group",
+        "id": "line 2019"
+      },
+      {
+        "type": "group",
+        "id": "info 2019"
+      },
+      {
+        "type": "group",
+        "id": "start 2019"
+      },
+      {
+        "type": "vector",
+        "id": "rectangle 2019"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse 2019"
+      },
+      {
+        "type": "text",
+        "id": "2019_1"
+      },
+      {
+        "type": "text",
+        "id": "¡SEGUNDA ENTRADA AL HALL OF FAME!"
+      },
+      {
+        "type": "text",
+        "id": "¡TERCER PUESTO EN EL RALLY DE ARABIA SAUDÍ!"
+      },
+      {
+        "type": "text",
+        "id": "RALLY DE MARRUECOS, PRIMERA TOMA DE CONTACTO CON LA ARENA"
+      },
+      {
+        "type": "text",
+        "id": "¡CAMPEÓN DEL MUNDIAL DE RESISTENCIA!"
+      },
+      {
+        "type": "text",
+        "id": "¡2º TRIUNFO CONSECUTIVO EN LE MANS!"
+      },
+      {
+        "type": "text",
+        "id": "23 HORAS DESPUÉS DE GANAR EN SPA ¡VICTORIA EN LA 1ª RONDA DE LAS SERIES DE RESISTENCIA DEL CIRCUITO FERNANDO ALONSO!"
+      },
+      {
+        "type": "text",
+        "id": "¡TRIUNFO EN SPA!"
+      },
+      {
+        "type": "text",
+        "id": "VICTORIA EN LAS 1.000 MILLAS DE SEBRING"
+      },
+      {
+        "type": "text",
+        "id": "TRIUNFO EN LAS 24 HORAS DE DAYTONA"
+      },
+      {
+        "type": "group",
+        "id": "line 2018"
+      },
+      {
+        "type": "group",
+        "id": "info 2018"
+      },
+      {
+        "type": "group",
+        "id": "start 2018"
+      },
+      {
+        "type": "vector",
+        "id": "rectangle 2018"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse 2018"
+      },
+      {
+        "type": "text",
+        "id": "2018_1"
+      },
+      {
+        "type": "text",
+        "id": "FERNANDO ALONSO, EL PILOTO EN ACTIVO CON MÁS PODIOS EN GP DE ALEMANIA"
+      },
+      {
+        "type": "text",
+        "id": "GRAN REMONTADA EN AUSTRIA"
+      },
+      {
+        "type": "text",
+        "id": "FERNANDO ALONSO, BATE OTRO RÉCORD"
+      },
+      {
+        "type": "text",
+        "id": "VICTORIA HISTÓRICA EN LAS 24 HORAS DE LE MANS"
+      },
+      {
+        "type": "text",
+        "id": "300 GP"
+      },
+      {
+        "type": "text",
+        "id": "6H SPA-FRANCORCHAMPS: DEBUT CON VICTORIA"
+      },
+      {
+        "type": "text",
+        "id": "24H DAYTONA"
+      },
+      {
+        "type": "group",
+        "id": "line 2017"
+      },
+      {
+        "type": "group",
+        "id": "info 2017"
+      },
+      {
+        "type": "group",
+        "id": "start 2017"
+      },
+      {
+        "type": "vector",
+        "id": "rectangle 2017"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse 2017"
+      },
+      {
+        "type": "text",
+        "id": "2017_1"
+      },
+      {
+        "type": "text",
+        "id": "500 MILLAS DE INDIANÁPOLIS"
+      },
+      {
+        "type": "group",
+        "id": "line 2016"
+      },
+      {
+        "type": "group",
+        "id": "info 2016"
+      },
+      {
+        "type": "group",
+        "id": "start 2016"
+      },
+      {
+        "type": "vector",
+        "id": "rectangle 2016"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse 2016"
+      },
+      {
+        "type": "text",
+        "id": "2016_1"
+      },
+      {
+        "type": "text",
+        "id": "EMBAJADOR DEL GP DE EUROPA"
+      },
+      {
+        "type": "text",
+        "id": "Premios App Bar"
+      },
+      {
+        "type": "group",
+        "id": "Capa Icono Equipo"
+      },
+      {
+        "type": "vector",
+        "id": "Icono Menu"
+      }
+    ],
+    "modes": {
+      "Pagina Trayectoria App": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Time Line",
+              "Top App Bar"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "175.05882352941177",
+              "saturation": "0.9883720930232559",
+              "value": "0.33725490196078434"
+            }
+          },
+          {
+            "id": "Time Line",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "382.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "1448.0"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "2023",
+              "2022",
+              "2021",
+              "2020",
+              "2019",
+              "2018",
+              "2017",
+              "2016"
+            ],
+            "item-spacing": "16.0"
+          },
+          {
+            "id": "Top App Bar",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Premios App Bar",
+              "Capa Icono Equipo"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "102.28571428571428",
+              "saturation": "0.42510121457489874",
+              "value": "0.9686274509803922"
+            }
+          },
+          {
+            "id": "2023",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "104.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "line 2023",
+              "info 2023"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "2022",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "68.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "line 2022",
+              "info 2022"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "2021",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "76.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "line 2021",
+              "info 2021"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "2020",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "208.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "line 2020",
+              "info 2020"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "2019",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "352.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "line 2019",
+              "info 2019"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "2018",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "272.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "line 2018",
+              "info 2018"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "2017",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "48.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "line 2017",
+              "info 2017"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "2016",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "48.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "line 2016",
+              "info 2016"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "line 2023",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "start 2023",
+              "rectangle 2023"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "info 2023",
+            "padding": {
+              "bottom": "48.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "300.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "2023_1",
+              "PODIO #100 EN F1",
+              "PODIO EN EL DEBUT CON ASTON MARTIN",
+              "¡FICHAJE POR ASTON MARTIN!"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "start 2023",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse 2023"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "rectangle 2023",
+            "border-radius": "1.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_2023.svg"
+          },
+          {
+            "id": "ellipse 2023",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "vector-content": "ellipse_2023.svg"
+          },
+          {
+            "id": "2023_1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "105.42857142857143",
+              "saturation": "0.27450980392156865",
+              "value": "1.0"
+            },
+            "text-content": "2023",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "PODIO #100 EN F1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "PODIO #100 EN F1",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "PODIO EN EL DEBUT CON ASTON MARTIN",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "annotated-text-content": {
+              "text": "PODIO EN EL DEBUT CON ASTON MARTIN",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "5",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "16.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.2640000581741333",
+                    "typeface": "Dosis"
+                  }
+                },
+                {
+                  "span-start": "5",
+                  "span-length": "29"
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "¡FICHAJE POR ASTON MARTIN!",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "¡FICHAJE POR ASTON MARTIN!",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "line 2022",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "start 2022",
+              "rectangle 2022"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "info 2022",
+            "padding": {
+              "bottom": "48.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "301.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "2022_1",
+              "RÉCORD DE LA CARRERA DEPORTIVA MÁS LARGA Y MAYOR NÚMERO DE CARRERAS EN F1"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "start 2022",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse 2022"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "rectangle 2022",
+            "border-radius": "1.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_2022.svg"
+          },
+          {
+            "id": "ellipse 2022",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "vector-content": "ellipse_2022.svg"
+          },
+          {
+            "id": "2022_1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "105.42857142857143",
+              "saturation": "0.27450980392156865",
+              "value": "1.0"
+            },
+            "text-content": "2022",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "RÉCORD DE LA CARRERA DEPORTIVA MÁS LARGA Y MAYOR NÚMERO DE CARRERAS EN F1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "301.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "RÉCORD DE LA CARRERA DEPORTIVA MÁS LARGA Y MAYOR NÚMERO DE CARRERAS EN F1",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "line 2021",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "start 2021",
+              "rectangle 2021"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "info 2021",
+            "padding": {
+              "bottom": "48.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "300.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "2021_1",
+              "¡TERCER PUESTO EN EL GP DE QATAR!",
+              "¡REGRESO A LA FÓRMULA 1!"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "start 2021",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse 2021"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "rectangle 2021",
+            "border-radius": "1.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_2021.svg"
+          },
+          {
+            "id": "ellipse 2021",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "vector-content": "ellipse_2021.svg"
+          },
+          {
+            "id": "2021_1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "105.42857142857143",
+              "saturation": "0.27450980392156865",
+              "value": "1.0"
+            },
+            "text-content": "2021",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "¡TERCER PUESTO EN EL GP DE QATAR!",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "¡TERCER PUESTO EN EL GP DE QATAR!",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "¡REGRESO A LA FÓRMULA 1!",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "¡REGRESO A LA FÓRMULA 1!",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "line 2020",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "start 2020",
+              "rectangle 2020"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "info 2020",
+            "padding": {
+              "bottom": "48.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "300.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "2020_1",
+              "ESTRENO DE LA DOCUSERIE “FERNANDO”",
+              "¡COMPLETADAS LAS INDY500!",
+              "¡RETORNO A LA FÓRMULA 1!",
+              "¡¡CONFIRMADA LA PARTICIPACIÓN DE FERNANDO ALONSO EN LAS INDY500 DE 2020!!",
+              "¡SEGUNDO PUESTO EN LA ETAPA 8 DEL DAKAR!",
+              "¡COMIENZA EL DAKAR!"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "start 2020",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse 2020"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "rectangle 2020",
+            "border-radius": "1.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_2020.svg"
+          },
+          {
+            "id": "ellipse 2020",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "vector-content": "ellipse_2020.svg"
+          },
+          {
+            "id": "2020_1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "105.42857142857143",
+              "saturation": "0.27450980392156865",
+              "value": "1.0"
+            },
+            "text-content": "2020",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "ESTRENO DE LA DOCUSERIE “FERNANDO”",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "ESTRENO DE LA DOCUSERIE “FERNANDO”",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "¡COMPLETADAS LAS INDY500!",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "¡COMPLETADAS LAS INDY500!",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "¡RETORNO A LA FÓRMULA 1!",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "¡RETORNO A LA FÓRMULA 1!",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "¡¡CONFIRMADA LA PARTICIPACIÓN DE FERNANDO ALONSO EN LAS INDY500 DE 2020!!",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "¡¡CONFIRMADA LA PARTICIPACIÓN DE FERNANDO ALONSO EN LAS INDY500 DE 2020!!",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "¡SEGUNDO PUESTO EN LA ETAPA 8 DEL DAKAR!",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "¡SEGUNDO PUESTO EN LA ETAPA 8 DEL DAKAR!",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "¡COMIENZA EL DAKAR!",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "¡COMIENZA EL DAKAR!",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "line 2019",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "start 2019",
+              "rectangle 2019"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "info 2019",
+            "padding": {
+              "bottom": "48.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "300.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "2019_1",
+              "¡SEGUNDA ENTRADA AL HALL OF FAME!",
+              "¡TERCER PUESTO EN EL RALLY DE ARABIA SAUDÍ!",
+              "RALLY DE MARRUECOS, PRIMERA TOMA DE CONTACTO CON LA ARENA",
+              "¡CAMPEÓN DEL MUNDIAL DE RESISTENCIA!",
+              "¡2º TRIUNFO CONSECUTIVO EN LE MANS!",
+              "23 HORAS DESPUÉS DE GANAR EN SPA ¡VICTORIA EN LA 1ª RONDA DE LAS SERIES DE RESISTENCIA DEL CIRCUITO FERNANDO ALONSO!",
+              "¡TRIUNFO EN SPA!",
+              "VICTORIA EN LAS 1.000 MILLAS DE SEBRING",
+              "TRIUNFO EN LAS 24 HORAS DE DAYTONA"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "start 2019",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse 2019"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "rectangle 2019",
+            "border-radius": "1.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_2019.svg"
+          },
+          {
+            "id": "ellipse 2019",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "vector-content": "ellipse_2019.svg"
+          },
+          {
+            "id": "2019_1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "105.42857142857143",
+              "saturation": "0.27450980392156865",
+              "value": "1.0"
+            },
+            "text-content": "2019",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "¡SEGUNDA ENTRADA AL HALL OF FAME!",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "¡SEGUNDA ENTRADA AL HALL OF FAME!",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "¡TERCER PUESTO EN EL RALLY DE ARABIA SAUDÍ!",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "¡TERCER PUESTO EN EL RALLY DE ARABIA SAUDÍ!",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "RALLY DE MARRUECOS, PRIMERA TOMA DE CONTACTO CON LA ARENA",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "RALLY DE MARRUECOS, PRIMERA TOMA DE CONTACTO CON LA ARENA",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "¡CAMPEÓN DEL MUNDIAL DE RESISTENCIA!",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "¡CAMPEÓN DEL MUNDIAL DE RESISTENCIA!",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "¡2º TRIUNFO CONSECUTIVO EN LE MANS!",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "¡2º TRIUNFO CONSECUTIVO EN LE MANS!",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "23 HORAS DESPUÉS DE GANAR EN SPA ¡VICTORIA EN LA 1ª RONDA DE LAS SERIES DE RESISTENCIA DEL CIRCUITO FERNANDO ALONSO!",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "23 HORAS DESPUÉS DE GANAR EN SPA ¡VICTORIA EN LA 1ª RONDA DE LAS SERIES DE RESISTENCIA DEL CIRCUITO FERNANDO ALONSO!",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "¡TRIUNFO EN SPA!",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "¡TRIUNFO EN SPA!",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "VICTORIA EN LAS 1.000 MILLAS DE SEBRING",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "VICTORIA EN LAS 1.000 MILLAS DE SEBRING",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "TRIUNFO EN LAS 24 HORAS DE DAYTONA",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "TRIUNFO EN LAS 24 HORAS DE DAYTONA",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "line 2018",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "start 2018",
+              "rectangle 2018"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "info 2018",
+            "padding": {
+              "bottom": "48.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "300.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "2018_1",
+              "FERNANDO ALONSO, EL PILOTO EN ACTIVO CON MÁS PODIOS EN GP DE ALEMANIA",
+              "GRAN REMONTADA EN AUSTRIA",
+              "FERNANDO ALONSO, BATE OTRO RÉCORD",
+              "VICTORIA HISTÓRICA EN LAS 24 HORAS DE LE MANS",
+              "300 GP",
+              "6H SPA-FRANCORCHAMPS: DEBUT CON VICTORIA",
+              "24H DAYTONA"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "start 2018",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse 2018"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "rectangle 2018",
+            "border-radius": "1.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_2018.svg"
+          },
+          {
+            "id": "ellipse 2018",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "vector-content": "ellipse_2018.svg"
+          },
+          {
+            "id": "2018_1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "105.42857142857143",
+              "saturation": "0.27450980392156865",
+              "value": "1.0"
+            },
+            "text-content": "2018",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "FERNANDO ALONSO, EL PILOTO EN ACTIVO CON MÁS PODIOS EN GP DE ALEMANIA",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "FERNANDO ALONSO, EL PILOTO EN ACTIVO CON MÁS PODIOS EN GP DE ALEMANIA",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "GRAN REMONTADA EN AUSTRIA",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "GRAN REMONTADA EN AUSTRIA",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "FERNANDO ALONSO, BATE OTRO RÉCORD",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "FERNANDO ALONSO, BATE OTRO RÉCORD",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "VICTORIA HISTÓRICA EN LAS 24 HORAS DE LE MANS",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "VICTORIA HISTÓRICA EN LAS 24 HORAS DE LE MANS",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "300 GP",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "300 GP",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "6H SPA-FRANCORCHAMPS: DEBUT CON VICTORIA",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "6H SPA-FRANCORCHAMPS: DEBUT CON VICTORIA",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "24H DAYTONA",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "24H DAYTONA",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "line 2017",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "start 2017",
+              "rectangle 2017"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "info 2017",
+            "padding": {
+              "bottom": "48.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "300.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "2017_1",
+              "500 MILLAS DE INDIANÁPOLIS"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "start 2017",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse 2017"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "rectangle 2017",
+            "border-radius": "1.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_2017.svg"
+          },
+          {
+            "id": "ellipse 2017",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "vector-content": "ellipse_2017.svg"
+          },
+          {
+            "id": "2017_1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "105.42857142857143",
+              "saturation": "0.27450980392156865",
+              "value": "1.0"
+            },
+            "text-content": "2017",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "500 MILLAS DE INDIANÁPOLIS",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "500 MILLAS DE INDIANÁPOLIS",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "line 2016",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "start 2016",
+              "rectangle 2016"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "info 2016",
+            "padding": {
+              "bottom": "48.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "300.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "68.0"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "2016_1",
+              "EMBAJADOR DEL GP DE EUROPA"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "start 2016",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse 2016"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "rectangle 2016",
+            "border-radius": "1.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_2016.svg"
+          },
+          {
+            "id": "ellipse 2016",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "vector-content": "ellipse_2016.svg"
+          },
+          {
+            "id": "2016_1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "105.42857142857143",
+              "saturation": "0.27450980392156865",
+              "value": "1.0"
+            },
+            "text-content": "2016",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "EMBAJADOR DEL GP DE EUROPA",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "EMBAJADOR DEL GP DE EUROPA",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Premios App Bar",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Trayectoria",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "26.0",
+            "line-height": "1.266000014085036",
+            "typeface": "Acme"
+          },
+          {
+            "id": "Capa Icono Equipo",
+            "alignment": {
+              "horizontal": {
+                "attachment": "end",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "58.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Icono Menu"
+            ]
+          },
+          {
+            "id": "Icono Menu",
+            "margin": {
+              "left": "20.0",
+              "top": "14.0",
+              "right": "20.0",
+              "bottom": "14.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "icono_menu.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Pagina Trayectoria App",
+      "size": {
+        "width": 360.0,
+        "height": 800.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

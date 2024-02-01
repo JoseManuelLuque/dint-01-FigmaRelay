@@ -1,0 +1,659 @@
+{
+  "name": "pagina_estad_sticas_app",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "qiSlSycuSQmyjIrrAEVp77",
+    "node": "76:620",
+    "version": "5074740005",
+    "component-id": "6c5eb6e7ee42d6597d76b60a2a939154ca0da1cf"
+  },
+  "default": "Pagina Estadísticas App",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "Estadísticas F1"
+      },
+      {
+        "type": "group",
+        "id": "Iconos"
+      },
+      {
+        "type": "group",
+        "id": "Top App Bar"
+      },
+      {
+        "type": "vector",
+        "id": "Icono F1"
+      },
+      {
+        "type": "image",
+        "id": "Icono Copa"
+      },
+      {
+        "type": "vector",
+        "id": "Icono Medalla"
+      },
+      {
+        "type": "image",
+        "id": "Icono Bandera"
+      },
+      {
+        "type": "image",
+        "id": "Icono Podio"
+      },
+      {
+        "type": "image",
+        "id": "Icono Casco"
+      },
+      {
+        "type": "vector",
+        "id": "Icono Crono"
+      },
+      {
+        "type": "image",
+        "id": "Icono Puntos"
+      },
+      {
+        "type": "text",
+        "id": "Stats"
+      },
+      {
+        "type": "group",
+        "id": "Capa Icono Equipo"
+      },
+      {
+        "type": "vector",
+        "id": "Icono Menu"
+      }
+    ],
+    "modes": {
+      "Pagina Estadísticas App": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Estadísticas F1",
+              "Iconos",
+              "Top App Bar"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "175.05882352941177",
+              "saturation": "0.9883720930232559",
+              "value": "0.33725490196078434"
+            }
+          },
+          {
+            "id": "Estadísticas F1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "24.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "40.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "232.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "742.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "annotated-text-content": {
+              "text": " \n20 Temporadas en F1\n\n2 Veces campeón\n\n376 Carreras (récord)\n\n32 Victorias \n\n106 Podios\n\n22 Poles\n\n24 Vueltas rápidas\n\n2.259 Puntos",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "2",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "20.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.2640000343322755",
+                    "typeface": "Dosis"
+                  }
+                },
+                {
+                  "span-start": "2",
+                  "span-length": "3",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "38.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.264000039351614",
+                    "typeface": "Dosis",
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "105.42857142857143",
+                      "saturation": "0.27450980392156865",
+                      "value": "1.0"
+                    }
+                  }
+                },
+                {
+                  "span-start": "5",
+                  "span-length": "17",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "20.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.2640000343322755",
+                    "typeface": "Dosis"
+                  }
+                },
+                {
+                  "span-start": "22",
+                  "span-length": "1"
+                },
+                {
+                  "span-start": "23",
+                  "span-length": "2",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "38.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.264000039351614",
+                    "typeface": "Dosis",
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "105.42857142857143",
+                      "saturation": "0.27450980392156865",
+                      "value": "1.0"
+                    }
+                  }
+                },
+                {
+                  "span-start": "25",
+                  "span-length": "14",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "20.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.2640000343322755",
+                    "typeface": "Dosis"
+                  }
+                },
+                {
+                  "span-start": "39",
+                  "span-length": "1"
+                },
+                {
+                  "span-start": "40",
+                  "span-length": "4",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "38.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.264000039351614",
+                    "typeface": "Dosis",
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "105.42857142857143",
+                      "saturation": "0.27450980392156865",
+                      "value": "1.0"
+                    }
+                  }
+                },
+                {
+                  "span-start": "44",
+                  "span-length": "19",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "20.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.2640000343322755",
+                    "typeface": "Dosis"
+                  }
+                },
+                {
+                  "span-start": "63",
+                  "span-length": "3",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "38.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.264000039351614",
+                    "typeface": "Dosis",
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "105.42857142857143",
+                      "saturation": "0.27450980392156865",
+                      "value": "1.0"
+                    }
+                  }
+                },
+                {
+                  "span-start": "66",
+                  "span-length": "11",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "20.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.2640000343322755",
+                    "typeface": "Dosis"
+                  }
+                },
+                {
+                  "span-start": "77",
+                  "span-length": "1"
+                },
+                {
+                  "span-start": "78",
+                  "span-length": "4",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "38.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.264000039351614",
+                    "typeface": "Dosis",
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "105.42857142857143",
+                      "saturation": "0.27450980392156865",
+                      "value": "1.0"
+                    }
+                  }
+                },
+                {
+                  "span-start": "82",
+                  "span-length": "7",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "20.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.2640000343322755",
+                    "typeface": "Dosis"
+                  }
+                },
+                {
+                  "span-start": "89",
+                  "span-length": "1"
+                },
+                {
+                  "span-start": "90",
+                  "span-length": "3",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "38.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.264000039351614",
+                    "typeface": "Dosis",
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "105.42857142857143",
+                      "saturation": "0.27450980392156865",
+                      "value": "1.0"
+                    }
+                  }
+                },
+                {
+                  "span-start": "93",
+                  "span-length": "6",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "20.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.2640000343322755",
+                    "typeface": "Dosis"
+                  }
+                },
+                {
+                  "span-start": "99",
+                  "span-length": "1"
+                },
+                {
+                  "span-start": "100",
+                  "span-length": "3",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "38.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.264000039351614",
+                    "typeface": "Dosis",
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "105.42857142857143",
+                      "saturation": "0.27450980392156865",
+                      "value": "1.0"
+                    }
+                  }
+                },
+                {
+                  "span-start": "103",
+                  "span-length": "16",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "20.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.2640000343322755",
+                    "typeface": "Dosis"
+                  }
+                },
+                {
+                  "span-start": "119",
+                  "span-length": "1"
+                },
+                {
+                  "span-start": "120",
+                  "span-length": "6",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "38.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.264000039351614",
+                    "typeface": "Dosis",
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "105.42857142857143",
+                      "saturation": "0.27450980392156865",
+                      "value": "1.0"
+                    }
+                  }
+                },
+                {
+                  "span-start": "126",
+                  "span-length": "6",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "20.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.2640000343322755",
+                    "typeface": "Dosis"
+                  }
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Iconos",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "232.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "55.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "128.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "745.0"
+              }
+            },
+            "children": [
+              "Icono F1",
+              "Icono Copa",
+              "Icono Medalla",
+              "Icono Bandera",
+              "Icono Podio",
+              "Icono Casco",
+              "Icono Crono",
+              "Icono Puntos"
+            ],
+            "item-spacing": "21.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Top App Bar",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Stats",
+              "Capa Icono Equipo"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "102.28571428571428",
+              "saturation": "0.42510121457489874",
+              "value": "0.9686274509803922"
+            }
+          },
+          {
+            "id": "Icono F1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "104.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "56.0"
+              }
+            },
+            "vector-content": "icono_f1.svg"
+          },
+          {
+            "id": "Icono Copa",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "74.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "74.0"
+              }
+            },
+            "image-content": "icono_copa.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Icono Medalla",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "81.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "82.0"
+              }
+            },
+            "vector-content": "icono_medalla.svg"
+          },
+          {
+            "id": "Icono Bandera",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "63.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "63.0"
+              }
+            },
+            "image-content": "icono_bandera.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Icono Podio",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "70.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "70.0"
+              }
+            },
+            "image-content": "icono_podio.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Icono Casco",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "77.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "77.0"
+              }
+            },
+            "image-content": "icono_casco.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Icono Crono",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "67.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "67.0"
+              }
+            },
+            "vector-content": "icono_crono.svg"
+          },
+          {
+            "id": "Icono Puntos",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "62.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "62.0"
+              }
+            },
+            "image-content": "icono_puntos.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Stats",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Estadísticas",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "26.0",
+            "line-height": "1.266000014085036",
+            "typeface": "Acme"
+          },
+          {
+            "id": "Capa Icono Equipo",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "302.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-1.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "58.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Icono Menu"
+            ]
+          },
+          {
+            "id": "Icono Menu",
+            "margin": {
+              "left": "20.0",
+              "top": "14.0",
+              "right": "20.0",
+              "bottom": "14.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "icono_menu.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Pagina Estadísticas App",
+      "size": {
+        "width": 360.0,
+        "height": 800.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

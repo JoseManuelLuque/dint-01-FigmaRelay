@@ -1,0 +1,655 @@
+{
+  "name": "pagina_inicio_app",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "qiSlSycuSQmyjIrrAEVp77",
+    "node": "36:62",
+    "version": "5074740005",
+    "component-id": "499cc4a82dfa298d2c45945a8cca278da120695e"
+  },
+  "default": "Pagina Inicio App",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "FERNANDO ALONSO APP"
+      },
+      {
+        "type": "image",
+        "id": "Foto Alonso"
+      },
+      {
+        "type": "group",
+        "id": "Botones Inicio"
+      },
+      {
+        "type": "group",
+        "id": "Boton Equipo Inicio"
+      },
+      {
+        "type": "group",
+        "id": "Boton Estadisticas Inicio"
+      },
+      {
+        "type": "group",
+        "id": "Boton Premios Inicio"
+      },
+      {
+        "type": "group",
+        "id": "Boton Biografia Inicio"
+      },
+      {
+        "type": "group",
+        "id": "Boton Trayectoria Inicio"
+      },
+      {
+        "type": "group",
+        "id": "Boton Temporada Inicio"
+      },
+      {
+        "type": "group",
+        "id": "Boton Salir Inicio"
+      },
+      {
+        "type": "vector",
+        "id": "Forma Boton Equipo Inicio"
+      },
+      {
+        "type": "text",
+        "id": "Texto Equipo Inicio"
+      },
+      {
+        "type": "vector",
+        "id": "Forma Boton Estadisticas Inicio"
+      },
+      {
+        "type": "text",
+        "id": "Texto Estadisticas Inicio"
+      },
+      {
+        "type": "vector",
+        "id": "Forma Boton Premios Inicio"
+      },
+      {
+        "type": "text",
+        "id": "Texto Premios Inicio"
+      },
+      {
+        "type": "vector",
+        "id": "Forma Boton Biografia Inicio"
+      },
+      {
+        "type": "text",
+        "id": "Texto Biografía Inicio"
+      },
+      {
+        "type": "vector",
+        "id": "Forma Boton Trayectoria Inicio"
+      },
+      {
+        "type": "text",
+        "id": "Texto Trayectoria Inicio"
+      },
+      {
+        "type": "vector",
+        "id": "Forma Boton Temporada Inicio"
+      },
+      {
+        "type": "text",
+        "id": "Texto Temporada 2023 Inicio"
+      },
+      {
+        "type": "vector",
+        "id": "Forma Boton Salir"
+      },
+      {
+        "type": "text",
+        "id": "Salir de la App"
+      }
+    ],
+    "modes": {
+      "Pagina Inicio App": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "FERNANDO ALONSO APP",
+              "Foto Alonso",
+              "Botones Inicio"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "175.05882352941177",
+              "saturation": "0.9883720930232559",
+              "value": "0.33725490196078434"
+            }
+          },
+          {
+            "id": "FERNANDO ALONSO APP",
+            "margin": {
+              "bottom": "702.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "FERNANDO ALONSO\nAPP",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "32.0",
+            "typeface": "Josefin Sans"
+          },
+          {
+            "id": "Foto Alonso",
+            "margin": {
+              "top": "73.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "336.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "foto_alonso.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Botones Inicio",
+            "margin": {
+              "left": "182.0",
+              "top": "163.0",
+              "right": "24.0",
+              "bottom": "80.0"
+            },
+            "cross-axis-align": "end",
+            "children": [
+              "Boton Equipo Inicio",
+              "Boton Estadisticas Inicio",
+              "Boton Premios Inicio",
+              "Boton Biografia Inicio",
+              "Boton Trayectoria Inicio",
+              "Boton Temporada Inicio",
+              "Boton Salir Inicio"
+            ],
+            "item-spacing": "46.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Boton Equipo Inicio",
+            "border-radius": "25.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "41.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Forma Boton Equipo Inicio",
+              "Texto Equipo Inicio"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Boton Estadisticas Inicio",
+            "border-radius": "25.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Forma Boton Estadisticas Inicio",
+              "Texto Estadisticas Inicio"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Boton Premios Inicio",
+            "border-radius": "25.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Forma Boton Premios Inicio",
+              "Texto Premios Inicio"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Boton Biografia Inicio",
+            "border-radius": "25.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Forma Boton Biografia Inicio",
+              "Texto Biografía Inicio"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Boton Trayectoria Inicio",
+            "border-radius": "25.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Forma Boton Trayectoria Inicio",
+              "Texto Trayectoria Inicio"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Boton Temporada Inicio",
+            "border-radius": "25.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Forma Boton Temporada Inicio",
+              "Texto Temporada 2023 Inicio"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Boton Salir Inicio",
+            "border-radius": "25.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Forma Boton Salir",
+              "Salir de la App"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Forma Boton Equipo Inicio",
+            "border-radius": "25.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "vector-content": "forma_boton_equipo_inicio.svg"
+          },
+          {
+            "id": "Texto Equipo Inicio",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "1.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Equipo",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "20.0",
+            "line-height": "1.2640000343322755",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Forma Boton Estadisticas Inicio",
+            "border-radius": "25.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "vector-content": "forma_boton_estadisticas_inicio.svg"
+          },
+          {
+            "id": "Texto Estadisticas Inicio",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Estadísticas",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "20.0",
+            "line-height": "1.2640000343322755",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Forma Boton Premios Inicio",
+            "border-radius": "25.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "vector-content": "forma_boton_premios_inicio.svg"
+          },
+          {
+            "id": "Texto Premios Inicio",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Premios",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "20.0",
+            "line-height": "1.2640000343322755",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Forma Boton Biografia Inicio",
+            "border-radius": "25.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "vector-content": "forma_boton_biografia_inicio.svg"
+          },
+          {
+            "id": "Texto Biografía Inicio",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Biografía",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "20.0",
+            "line-height": "1.2640000343322755",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Forma Boton Trayectoria Inicio",
+            "border-radius": "25.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "vector-content": "forma_boton_trayectoria_inicio.svg"
+          },
+          {
+            "id": "Texto Trayectoria Inicio",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Trayectoria",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "20.0",
+            "line-height": "1.2640000343322755",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Forma Boton Temporada Inicio",
+            "border-radius": "25.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "vector-content": "forma_boton_temporada_inicio.svg"
+          },
+          {
+            "id": "Texto Temporada 2023 Inicio",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Temporada 2023",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "20.0",
+            "line-height": "1.2640000343322755",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Forma Boton Salir",
+            "border-radius": "25.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "vector-content": "forma_boton_salir.svg"
+          },
+          {
+            "id": "Salir de la App",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Salir de la App",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "20.0",
+            "line-height": "1.2640000343322755",
+            "typeface": "Dosis"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Pagina Inicio App",
+      "size": {
+        "width": 360.0,
+        "height": 800.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

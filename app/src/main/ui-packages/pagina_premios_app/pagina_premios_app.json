@@ -1,0 +1,2655 @@
+{
+  "name": "pagina_premios_app",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "qiSlSycuSQmyjIrrAEVp77",
+    "node": "76:622",
+    "version": "5074740005",
+    "component-id": "ef82ab0cab3877df1dee0ea85a5bac936c74654b"
+  },
+  "default": "Pagina Premios App",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Time Line"
+      },
+      {
+        "type": "group",
+        "id": "Top App Bar"
+      },
+      {
+        "type": "group",
+        "id": "2023"
+      },
+      {
+        "type": "group",
+        "id": "2022"
+      },
+      {
+        "type": "group",
+        "id": "2021"
+      },
+      {
+        "type": "group",
+        "id": "2013"
+      },
+      {
+        "type": "group",
+        "id": "2012"
+      },
+      {
+        "type": "group",
+        "id": "2011"
+      },
+      {
+        "type": "group",
+        "id": "2010"
+      },
+      {
+        "type": "group",
+        "id": "2024"
+      },
+      {
+        "type": "group",
+        "id": "2005"
+      },
+      {
+        "type": "group",
+        "id": "line 2023"
+      },
+      {
+        "type": "group",
+        "id": "info 2023"
+      },
+      {
+        "type": "group",
+        "id": "start 2023"
+      },
+      {
+        "type": "vector",
+        "id": "rectangle 2023"
+      },
+      {
+        "type": "group",
+        "id": "end"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse1"
+      },
+      {
+        "type": "text",
+        "id": "Title 2023"
+      },
+      {
+        "type": "text",
+        "id": "PREMIO 2023"
+      },
+      {
+        "type": "text",
+        "id": "Date"
+      },
+      {
+        "type": "group",
+        "id": "line 2022"
+      },
+      {
+        "type": "group",
+        "id": "info 2022"
+      },
+      {
+        "type": "group",
+        "id": "start 2022"
+      },
+      {
+        "type": "vector",
+        "id": "rectangle 2022"
+      },
+      {
+        "type": "group",
+        "id": "end1"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse2"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse3"
+      },
+      {
+        "type": "text",
+        "id": "Title 2022"
+      },
+      {
+        "type": "text",
+        "id": "PREMIO 2022"
+      },
+      {
+        "type": "text",
+        "id": "Date1"
+      },
+      {
+        "type": "group",
+        "id": "line 2021"
+      },
+      {
+        "type": "group",
+        "id": "info 2021"
+      },
+      {
+        "type": "group",
+        "id": "start 2021"
+      },
+      {
+        "type": "vector",
+        "id": "rectangle 2021"
+      },
+      {
+        "type": "group",
+        "id": "end2"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse4"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse5"
+      },
+      {
+        "type": "text",
+        "id": "Title 2021"
+      },
+      {
+        "type": "text",
+        "id": "PREMIO 2021"
+      },
+      {
+        "type": "text",
+        "id": "Date2"
+      },
+      {
+        "type": "group",
+        "id": "line 2013"
+      },
+      {
+        "type": "group",
+        "id": "info 2013"
+      },
+      {
+        "type": "group",
+        "id": "start 2013"
+      },
+      {
+        "type": "vector",
+        "id": "rectangle 2013"
+      },
+      {
+        "type": "group",
+        "id": "end3"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse6"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse7"
+      },
+      {
+        "type": "text",
+        "id": "Title 2013"
+      },
+      {
+        "type": "text",
+        "id": "PREMIO 2013"
+      },
+      {
+        "type": "text",
+        "id": "Date3"
+      },
+      {
+        "type": "group",
+        "id": "line 2012"
+      },
+      {
+        "type": "group",
+        "id": "info 2012"
+      },
+      {
+        "type": "group",
+        "id": "start 2012"
+      },
+      {
+        "type": "vector",
+        "id": "rectangle 2012"
+      },
+      {
+        "type": "group",
+        "id": "end4"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse8"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse9"
+      },
+      {
+        "type": "text",
+        "id": "Title 2012"
+      },
+      {
+        "type": "text",
+        "id": "PREMIO 2012"
+      },
+      {
+        "type": "text",
+        "id": "Date4"
+      },
+      {
+        "type": "group",
+        "id": "line 2011"
+      },
+      {
+        "type": "group",
+        "id": "info 2011"
+      },
+      {
+        "type": "group",
+        "id": "start 2011"
+      },
+      {
+        "type": "vector",
+        "id": "rectangle 2011"
+      },
+      {
+        "type": "group",
+        "id": "end5"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse10"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse11"
+      },
+      {
+        "type": "text",
+        "id": "Title 2011"
+      },
+      {
+        "type": "text",
+        "id": "PREMIO 2011"
+      },
+      {
+        "type": "text",
+        "id": "Date5"
+      },
+      {
+        "type": "group",
+        "id": "line 2010"
+      },
+      {
+        "type": "group",
+        "id": "info 2010"
+      },
+      {
+        "type": "group",
+        "id": "start 2010"
+      },
+      {
+        "type": "vector",
+        "id": "rectangle 2010"
+      },
+      {
+        "type": "group",
+        "id": "end6"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse12"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse13"
+      },
+      {
+        "type": "text",
+        "id": "Title 2010"
+      },
+      {
+        "type": "text",
+        "id": "PREMIO 2010"
+      },
+      {
+        "type": "text",
+        "id": "Date6"
+      },
+      {
+        "type": "group",
+        "id": "line 2014"
+      },
+      {
+        "type": "group",
+        "id": "info 2014"
+      },
+      {
+        "type": "group",
+        "id": "start 2014"
+      },
+      {
+        "type": "vector",
+        "id": "rectangle 2014"
+      },
+      {
+        "type": "group",
+        "id": "end7"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse14"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse15"
+      },
+      {
+        "type": "text",
+        "id": "Title 2014"
+      },
+      {
+        "type": "text",
+        "id": "PREMIO 2014"
+      },
+      {
+        "type": "text",
+        "id": "Date7"
+      },
+      {
+        "type": "group",
+        "id": "line 2005"
+      },
+      {
+        "type": "group",
+        "id": "info 2005"
+      },
+      {
+        "type": "group",
+        "id": "start 2005"
+      },
+      {
+        "type": "vector",
+        "id": "rectangle 2005"
+      },
+      {
+        "type": "group",
+        "id": "end8"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse16"
+      },
+      {
+        "type": "vector",
+        "id": "ellipse17"
+      },
+      {
+        "type": "text",
+        "id": "Title 2005"
+      },
+      {
+        "type": "text",
+        "id": "PREMIO 2005"
+      },
+      {
+        "type": "text",
+        "id": "Date8"
+      },
+      {
+        "type": "text",
+        "id": "Premios App Bar"
+      },
+      {
+        "type": "group",
+        "id": "Capa Icono Equipo"
+      },
+      {
+        "type": "vector",
+        "id": "Icono Menu"
+      }
+    ],
+    "modes": {
+      "Pagina Premios App": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Time Line",
+              "Top App Bar"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "175.05882352941177",
+              "saturation": "0.9883720930232559",
+              "value": "0.33725490196078434"
+            }
+          },
+          {
+            "id": "Time Line",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-5.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "96.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "330.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "872.0"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "2023",
+              "2022",
+              "2021",
+              "2013",
+              "2012",
+              "2011",
+              "2010",
+              "2024",
+              "2005"
+            ],
+            "item-spacing": "16.0"
+          },
+          {
+            "id": "Top App Bar",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Premios App Bar",
+              "Capa Icono Equipo"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "102.28571428571428",
+              "saturation": "0.42510121457489874",
+              "value": "0.9686274509803922"
+            }
+          },
+          {
+            "id": "2023",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "332.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "52.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "line 2023",
+              "info 2023"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "2022",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "330.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "68.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "line 2022",
+              "info 2022"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "2021",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "326.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "52.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "line 2021",
+              "info 2021"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "2013",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "326.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "line 2013",
+              "info 2013"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "2012",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "326.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "54.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "line 2012",
+              "info 2012"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "2011",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "326.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "74.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "line 2011",
+              "info 2011"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "2010",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "332.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "119.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "line 2010",
+              "info 2010"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "2024",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "332.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "111.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "line 2014",
+              "info 2014"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "2005",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "332.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "173.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "line 2005",
+              "info 2005"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "line 2023",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "start 2023",
+              "rectangle 2023",
+              "end"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "info 2023",
+            "padding": {
+              "bottom": "48.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Title 2023",
+              "PREMIO 2023",
+              "Date"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "start 2023",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "rectangle 2023",
+            "border-radius": "1.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_2023.svg"
+          },
+          {
+            "id": "end",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse1"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "ellipse",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "vector-content": "ellipse.svg"
+          },
+          {
+            "id": "ellipse1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            }
+          },
+          {
+            "id": "Title 2023",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "105.42857142857143",
+              "saturation": "0.27450980392156865",
+              "value": "1.0"
+            },
+            "text-content": "2023",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "PREMIO 2023",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "PREMIO ACCION DEL AÑO DE LA FIA",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Date",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Date",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "line 2022",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "start 2022",
+              "rectangle 2022",
+              "end1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "info 2022",
+            "padding": {
+              "bottom": "48.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Title 2022",
+              "PREMIO 2022",
+              "Date1"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "start 2022",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse2"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "rectangle 2022",
+            "border-radius": "1.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_2022.svg"
+          },
+          {
+            "id": "end1",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse3"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "ellipse2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "vector-content": "ellipse1.svg"
+          },
+          {
+            "id": "ellipse3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            }
+          },
+          {
+            "id": "Title 2022",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "105.42857142857143",
+              "saturation": "0.27450980392156865",
+              "value": "1.0"
+            },
+            "text-content": "2022",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "PREMIO 2022",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "PREMIO CONFARTIGIANATO MOTORI AL MEJOR PILOTO DEL AÑO",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Date1",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Date",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "line 2021",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "start 2021",
+              "rectangle 2021",
+              "end2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "info 2021",
+            "padding": {
+              "bottom": "48.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Title 2021",
+              "PREMIO 2021",
+              "Date2"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "start 2021",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse4"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "rectangle 2021",
+            "border-radius": "1.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_2021.svg"
+          },
+          {
+            "id": "end2",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse5"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "ellipse4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "vector-content": "ellipse2.svg"
+          },
+          {
+            "id": "ellipse5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            }
+          },
+          {
+            "id": "Title 2021",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "105.42857142857143",
+              "saturation": "0.27450980392156865",
+              "value": "1.0"
+            },
+            "text-content": "2021",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "PREMIO 2021",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "PREMIO ACCION DEL AÑO FIA",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Date2",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Date",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "line 2013",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "start 2013",
+              "rectangle 2013",
+              "end3"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "info 2013",
+            "padding": {
+              "bottom": "48.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Title 2013",
+              "PREMIO 2013",
+              "Date3"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "start 2013",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse6"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "rectangle 2013",
+            "border-radius": "1.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_2013.svg"
+          },
+          {
+            "id": "end3",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse7"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "ellipse6",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "vector-content": "ellipse3.svg"
+          },
+          {
+            "id": "ellipse7",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            }
+          },
+          {
+            "id": "Title 2013",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "105.42857142857143",
+              "saturation": "0.27450980392156865",
+              "value": "1.0"
+            },
+            "text-content": "2013",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "PREMIO 2013",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "PREMIO BBC ADELANTAMIENTO DEL AÑO",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Date3",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Date",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "line 2012",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "start 2012",
+              "rectangle 2012",
+              "end4"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "info 2012",
+            "padding": {
+              "bottom": "48.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Title 2012",
+              "PREMIO 2012",
+              "Date4"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "start 2012",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse8"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "rectangle 2012",
+            "border-radius": "1.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_2012.svg"
+          },
+          {
+            "id": "end4",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse9"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "ellipse8",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "vector-content": "ellipse4.svg"
+          },
+          {
+            "id": "ellipse9",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            }
+          },
+          {
+            "id": "Title 2012",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "105.42857142857143",
+              "saturation": "0.27450980392156865",
+              "value": "1.0"
+            },
+            "text-content": "2012",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "PREMIO 2012",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "PREMIO BBC ADELANTAMIENTO DEL AÑO",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Date4",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Date",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "line 2011",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "start 2011",
+              "rectangle 2011",
+              "end5"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "info 2011",
+            "padding": {
+              "bottom": "48.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Title 2011",
+              "PREMIO 2011",
+              "Date5"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "start 2011",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse10"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "rectangle 2011",
+            "border-radius": "1.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_2011.svg"
+          },
+          {
+            "id": "end5",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse11"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "ellipse10",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "vector-content": "ellipse5.svg"
+          },
+          {
+            "id": "ellipse11",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            }
+          },
+          {
+            "id": "Title 2011",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "105.42857142857143",
+              "saturation": "0.27450980392156865",
+              "value": "1.0"
+            },
+            "text-content": "2011",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "PREMIO 2011",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "19.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "PREMIO INTERNACIONAL DEL DELPORTE DE LA COMUNIDAD DE MADRID",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Date5",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Date",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "line 2010",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "start 2010",
+              "rectangle 2010",
+              "end6"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "info 2010",
+            "padding": {
+              "bottom": "48.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Title 2010",
+              "PREMIO 2010",
+              "Date6"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "start 2010",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse12"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "rectangle 2010",
+            "border-radius": "1.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_2010.svg"
+          },
+          {
+            "id": "end6",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse13"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "ellipse12",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "vector-content": "ellipse6.svg"
+          },
+          {
+            "id": "ellipse13",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            }
+          },
+          {
+            "id": "Title 2010",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "105.42857142857143",
+              "saturation": "0.27450980392156865",
+              "value": "1.0"
+            },
+            "text-content": "2010",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "PREMIO 2010",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "19.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "annotated-text-content": {
+              "text": "TROFEO DHL VUELTA RAPIDATROFEO DHL VUELTA RAPIDA\n\nMEJOR PILOTO POR LOS JEFES DE EQUIPO",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "24",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "16.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.2640000581741333",
+                    "typeface": "Dosis",
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "0.0",
+                      "saturation": "0.0",
+                      "value": "1.0"
+                    }
+                  }
+                },
+                {
+                  "span-start": "24",
+                  "span-length": "62",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "16.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.2640000581741333",
+                    "typeface": "Dosis"
+                  }
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis",
+            "case": "upper"
+          },
+          {
+            "id": "Date6",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Date",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "line 2014",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "start 2014",
+              "rectangle 2014",
+              "end7"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "info 2014",
+            "padding": {
+              "bottom": "48.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Title 2014",
+              "PREMIO 2014",
+              "Date7"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "start 2014",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse14"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "rectangle 2014",
+            "border-radius": "1.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_2014.svg"
+          },
+          {
+            "id": "end7",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse15"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "ellipse14",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "vector-content": "ellipse7.svg"
+          },
+          {
+            "id": "ellipse15",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            }
+          },
+          {
+            "id": "Title 2014",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "105.42857142857143",
+              "saturation": "0.27450980392156865",
+              "value": "1.0"
+            },
+            "text-content": "2006",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "PREMIO 2014",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "19.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "PREMIO INTERNATIONAL RACING DRIVER\n\nMEDALLA DE ORO - REAL ORDEN DEL MERITO DEPORTIVO",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Date7",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Date",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "line 2005",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "start 2005",
+              "rectangle 2005",
+              "end8"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "info 2005",
+            "padding": {
+              "bottom": "48.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Title 2005",
+              "PREMIO 2005",
+              "Date8"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "start 2005",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse16"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "rectangle 2005",
+            "border-radius": "1.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_2005.svg"
+          },
+          {
+            "id": "end8",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ellipse17"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "ellipse16",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "vector-content": "ellipse8.svg"
+          },
+          {
+            "id": "ellipse17",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            }
+          },
+          {
+            "id": "Title 2005",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "105.42857142857143",
+              "saturation": "0.27450980392156865",
+              "value": "1.0"
+            },
+            "text-content": "2005",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "PREMIO 2005",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "19.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "HIJO PREDILECTO DE OVIEDO \n\nPREMIO NACIONAL DEL DEPORTE - MEJOR DEPORTISTA DEL AÑO\n\nPREMIO PRINCIPE DE ASTURIAS DE LOS DEPORTES ",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Date8",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Date",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Premios App Bar",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Premios",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "26.0",
+            "line-height": "1.266000014085036",
+            "typeface": "Acme"
+          },
+          {
+            "id": "Capa Icono Equipo",
+            "alignment": {
+              "horizontal": {
+                "attachment": "end",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "58.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Icono Menu"
+            ]
+          },
+          {
+            "id": "Icono Menu",
+            "margin": {
+              "left": "20.0",
+              "top": "14.0",
+              "right": "20.0",
+              "bottom": "14.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "icono_menu.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Pagina Premios App",
+      "size": {
+        "width": 360.0,
+        "height": 800.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

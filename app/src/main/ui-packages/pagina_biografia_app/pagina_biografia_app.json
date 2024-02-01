@@ -1,0 +1,390 @@
+{
+  "name": "pagina_biografia_app",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "qiSlSycuSQmyjIrrAEVp77",
+    "node": "76:621",
+    "version": "5074740005",
+    "component-id": "b7a7d57210fbe84db5413dbf5b18f7e0660ae4a3"
+  },
+  "default": "Pagina Biografia App",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "image",
+        "id": "Firma"
+      },
+      {
+        "type": "text",
+        "id": "Datos BAsicos"
+      },
+      {
+        "type": "text",
+        "id": "Texto Biografia"
+      },
+      {
+        "type": "group",
+        "id": "Top App Bar"
+      },
+      {
+        "type": "text",
+        "id": "Stats"
+      },
+      {
+        "type": "group",
+        "id": "Capa Icono Equipo"
+      },
+      {
+        "type": "vector",
+        "id": "Icono Menu"
+      }
+    ],
+    "modes": {
+      "Pagina Biografia App": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Firma",
+              "Datos BAsicos",
+              "Texto Biografia",
+              "Top App Bar"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "175.05882352941177",
+              "saturation": "0.9883720930232559",
+              "value": "0.33725490196078434"
+            }
+          },
+          {
+            "id": "Firma",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "194.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "170.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "150.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "63.0"
+              }
+            },
+            "image-content": "firma.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Datos BAsicos",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "56.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "149.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "annotated-text-content": {
+              "text": "Fernando Alonso Díaz\nFecha de nacimiento: 29/07/1981\nEdad: 42 años\nPaís: España (nacido en Oviedo)\nDorsal: 14",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "21",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "38.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.264000039351614",
+                    "typeface": "Dosis"
+                  }
+                },
+                {
+                  "span-start": "21",
+                  "span-length": "88"
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "20.0",
+            "line-height": "1.2640000343322755",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Texto Biografia",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "20.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "215.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "608.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "annotated-text-content": {
+              "text": "Familia\nHijo de Ana María Díaz Martínez y José Luis Alonso, un piloto amateur de karts, que quiso transmitir su pasión a sus hijos. Tiene una hermana mayor, Lorena. Su padre construyó un kart para Lorena, de ocho años, que no mostró interés y quedó para Fernando, que tenía tres años.\n\nEstudios\nDesde los cuatro años hasta los catorce, estudió primaria y EGB en el colegio Santo Ángel de la Guarda, en Oviedo. Después cursó estudios en el instituto Leopoldo Alas Clarín de San Lázaro. Dejó los estudios en el 2000, para dedicarse al automovilismo.\n\nFórmula 3000\nEn competición desde muy pequeño. En 2000 debutó en la Fórmula 3000 y logró la cuarta plaza final en dicho campeonato mundial, tras haber ganado la prueba belga de Spa, ser segundo en Hungría y sexto en Austria.\n\nFórmula 1\nLa escudería European Minardi lo confirmó como uno de sus dos pilotos oficiales para el campeonato mundial 2001 de Fórmula 1.Sustituyó a Jenson Button como piloto oficial del equipo Renault completando así la pareja de pilotos de la escudería francesa junto a Jarno Trulli.El 24 de marzo de 2003 logró su primer podio al terminar tercero en el Gran Premio de Malasia, segunda prueba de la temporada, disputada en el circuito de Sepang, en la que se impuso el finlandés Kimi Raikkonen (McLaren).",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "8",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "20.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.2640000343322755",
+                    "typeface": "Dosis"
+                  }
+                },
+                {
+                  "span-start": "8",
+                  "span-length": "278"
+                },
+                {
+                  "span-start": "286",
+                  "span-length": "9",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "20.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.2640000343322755",
+                    "typeface": "Dosis"
+                  }
+                },
+                {
+                  "span-start": "295",
+                  "span-length": "254"
+                },
+                {
+                  "span-start": "549",
+                  "span-length": "13",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "20.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.2640000343322755",
+                    "typeface": "Dosis"
+                  }
+                },
+                {
+                  "span-start": "562",
+                  "span-length": "213"
+                },
+                {
+                  "span-start": "775",
+                  "span-length": "7",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "20.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.2640000343322755",
+                    "typeface": "Dosis"
+                  }
+                },
+                {
+                  "span-start": "782",
+                  "span-length": "140"
+                },
+                {
+                  "span-start": "922",
+                  "span-length": "13",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "16.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.2640000581741333",
+                    "typeface": "Dosis"
+                  }
+                },
+                {
+                  "span-start": "935",
+                  "span-length": "319"
+                },
+                {
+                  "span-start": "1254",
+                  "span-length": "14",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "text-size": "16.0",
+                    "letter-spacing": "0.0",
+                    "line-height": "1.2640000581741333",
+                    "typeface": "Dosis"
+                  }
+                },
+                {
+                  "span-start": "1268",
+                  "span-length": "11"
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.2640000581741333",
+            "typeface": "Dosis"
+          },
+          {
+            "id": "Top App Bar",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Stats",
+              "Capa Icono Equipo"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "102.28571428571428",
+              "saturation": "0.42510121457489874",
+              "value": "0.9686274509803922"
+            }
+          },
+          {
+            "id": "Stats",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Biografía",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "26.0",
+            "line-height": "1.266000014085036",
+            "typeface": "Acme"
+          },
+          {
+            "id": "Capa Icono Equipo",
+            "alignment": {
+              "horizontal": {
+                "attachment": "end",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "58.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Icono Menu"
+            ]
+          },
+          {
+            "id": "Icono Menu",
+            "margin": {
+              "left": "20.0",
+              "top": "14.0",
+              "right": "20.0",
+              "bottom": "14.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "icono_menu.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Pagina Biografia App",
+      "size": {
+        "width": 360.0,
+        "height": 800.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
